@@ -4,5 +4,5 @@ charset-normalizer==2.0.3
 idna==3.2
 requests==2.31.0
 soupsieve==2.2.1
-urllib3==1.26.6
+urllib3==1.26.17
 scraper_helper==0.0.8
